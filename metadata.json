@@ -1,0 +1,6 @@
+{
+  "name": "Die Welle: Macht durch Disziplin",
+  "description": "Interaktive Lernumgebung zum Roman 'Die Welle' von Morton Rhue mit didaktischem Fokus auf das Gründungsmotto 'Macht durch Disziplin', Drill-Simulation, psychologische Mechanismen und Reflexionslabor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
